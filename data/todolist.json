@@ -1,0 +1,38 @@
+{"ToDoList": [
+    {
+        "completion": false,
+        "due date": "By tonight",
+        "name": "Wash Dishes",
+        "category": "CHORE"
+    },
+    {
+        "completion": false,
+        "due date": "Next Monday",
+        "name": "CPSC 121 Quiz",
+        "category": "SCHOOL"
+    },
+    {
+        "completion": false,
+        "due date": "sunday",
+        "name": "visit friend",
+        "category": "OTHER"
+    },
+    {
+        "completion": false,
+        "due date": "Tuesday",
+        "name": "INFO 200 presentation",
+        "category": "SCHOOL"
+    },
+    {
+        "completion": false,
+        "due date": "Wednesday ",
+        "name": "Math assignment",
+        "category": "SCHOOL"
+    },
+    {
+        "completion": false,
+        "due date": "tonight",
+        "name": "Text mom",
+        "category": "OTHER"
+    }
+]}
